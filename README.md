@@ -20,5 +20,13 @@
 ## SafeAreaView
 npx expo install react-native-safe-area-context
 
-# Responsive UI
+## Responsive UI
 npm install -save react-native-size-matters
+
+## SVG Icons, install 
+npm install react-native-svg
+
+## required dependency for the navigation tabs
+npm install @react-navigation/native npx 
+
+npm install @react-navigation/bottom-tabs
